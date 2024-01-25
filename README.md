@@ -1,6 +1,6 @@
 # Jogo do Número Secreto
 
-## O jogo gera um número aleatório e o usuário tenta descobrir qual é o número! 
+### O jogo gera um número aleatório e o usuário tenta descobrir qual é o número! 
 ### O jogo não sorteará um mesmo número novamente até todos os números disponíveis entre 1 e 10 serem sorteados.
 
 ## Interface do Jogo
